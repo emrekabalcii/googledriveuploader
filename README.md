@@ -1,6 +1,8 @@
 ## Google Drive File Uploader with Python 3 ##
 **Prerequisite**
-- https://pythonhosted.org/PyDrive/quickstart.html 
+
+[Click and Follow the Instrcutions](https://pythonhosted.org/PyDrive/quickstart.html) 
+
 **Usage**
     
 - **-l** or **--local** -> value of local_folder_path. This value should be the folder where the files you want to upload.
