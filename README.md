@@ -1,7 +1,7 @@
 ## Google Drive File Uploader with Python 3 ##
 **Prerequisite**
 
-[Click and Follow the Instrcutions](https://pythonhosted.org/PyDrive/quickstart.html) 
+[Click and Follow the Instrcutions of Authentication Step](https://pythonhosted.org/PyDrive/quickstart.html) 
 
 **Usage**
     
